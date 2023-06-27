@@ -2,6 +2,9 @@
 
 This repository contains a Python script that uses the `PIL` (Python Imaging Library) and `NumPy` libraries to convert a colorful photo into black and white. Please note that the front end is still under development.
 
+## Preview
+![Untitled](https://github.com/Jr-Einstein/Image-Processing-Into-Black-and-White/assets/79279299/0d05d8dc-79f4-48f0-a60d-4d85baae7f42)
+
 ## Prerequisites
 
 Make sure you have the following libraries installed in your Python environment:
