@@ -101,6 +101,6 @@ If you encounter any issues or have suggestions for improvement, please submit t
 
 ## Support
 
-If you need any assistance or have any questions, feel free to contact the project maintainers at [email@example.com](mailto:amankumar.singh2022@vitbhopal.ac.in).
+If you need any assistance or have any questions, feel free to contact the project maintainers at [amankumar.singh2022@vitbhopal.ac.in(mailto:amankumar.singh2022@vitbhopal.ac.in).
 
 Enjoy image processing with Python!
