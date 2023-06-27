@@ -97,10 +97,10 @@ Contributions to this project are welcome! To contribute, please follow these st
 4. Push to the branch: `git push origin my-feature-branch`.
 5. Submit a pull request.
 
-If you encounter any issues or have suggestions for improvement, please submit them in the [issue tracker](https://github.com/your_username/Image-Processing-Into-Black-and-White/issues).
+If you encounter any issues or have suggestions for improvement, please submit them in the [issue tracker](https://github.com/Jr-Einstein/Image-Processing-Into-Black-and-White/issues).
 
 ## Support
 
-If you need any assistance or have any questions, feel free to contact the project maintainers at [email@example.com](mailto:email@example.com).
+If you need any assistance or have any questions, feel free to contact the project maintainers at [email@example.com](mailto:amankumar.singh2022@vitbhopal.ac.in).
 
 Enjoy image processing with Python!
